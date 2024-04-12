@@ -1,3 +1,4 @@
 @import 'bootstrap/dist/css/bootstrap.css';
+@import 'vue-select/dist/vue-select.css';
+@import '@vuepic/vue-datepicker/dist/main.css';
 @import './base.css';
-@import "vue-select/dist/vue-select.css";
